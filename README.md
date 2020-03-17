@@ -4,8 +4,8 @@ covid PLE concept sets for Exposures
 Currents sets to be developed 
 
 ## DMARDs
-
-### Ts:
+(Got it mostly from BCN studyathon) 
+### Ts: 
 * [x] Hydroxychloroquine (ingredient)
 * [x] Tocilizumab (ingredient)
 * [x] Sarilumab
@@ -45,8 +45,8 @@ Currents sets to be developed
 
 ## Drugs targeting the renin–angiotensin system
 ### Ts:
-* [x] ACE inhibitors (class)
-* [x]  ARBs (class)
+* [ ] ACE inhibitors (class)
+* [ ]  ARBs (class)
 ### Cs: 
 * [ ] Thiazides and thiazide-like diuretics (class) 
 * [ ] calcium channel blockers (class)
