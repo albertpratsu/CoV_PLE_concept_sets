@@ -8,7 +8,7 @@ Currents sets to be developed
 ### Ts:
 * [x] Hydroxychloroquine (ingredient)
 * [x] Tocilizumab (ingredient)
-* [_] Sarilumab
+* [ ] Sarilumab
 * [x] Baricitinib (ingredient)
 ### Cs: 
 * [x] Methotrexate (ingredient)
