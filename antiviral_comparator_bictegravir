@@ -2,40 +2,6 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 1177158,
-        "CONCEPT_NAME": "Bictegravir",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "LP268150-2",
-        "DOMAIN_ID": "Measurement",
-        "VOCABULARY_ID": "LOINC",
-        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 36674331,
-        "CONCEPT_NAME": "Bictegravir",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "772193003",
-        "DOMAIN_ID": "Observation",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Substance"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 964008,
         "CONCEPT_NAME": "bictegravir",
         "STANDARD_CONCEPT": "S",
@@ -46,23 +12,6 @@
         "DOMAIN_ID": "Drug",
         "VOCABULARY_ID": "RxNorm",
         "CONCEPT_CLASS_ID": "Ingredient"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 36674332,
-        "CONCEPT_NAME": "Bictegravir sodium",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "772194009",
-        "DOMAIN_ID": "Observation",
-        "VOCABULARY_ID": "SNOMED",
-        "CONCEPT_CLASS_ID": "Substance"
       },
       "isExcluded": false,
       "includeDescendants": true,
