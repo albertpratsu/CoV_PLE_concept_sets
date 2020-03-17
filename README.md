@@ -17,10 +17,10 @@ Currents sets to be developed
 
 ### Ts:
 * [ ] Protease inhibitors [-navir] (class)
-* [ ] Umifenovir (ingredient)
+* [x] Umifenovir (ingredient)
 * [ ] Remdesivir (ingredient)
-* [ ]	Lopinavir (ingredient) 
-* [ ]	Ritonavir (ingredient)
+* [x]	Lopinavir (ingredient) 
+* [x] Ritonavir (ingredient)
 
 ### Cs: 
 * [ ]	Integrase inhibitors (class) (includes raltegravir, elvitegravir, dolutegravir, bictegravir)
@@ -45,7 +45,7 @@ Currents sets to be developed
 ## Drugs targeting the renin–angiotensin system
 ### Ts:
 * [x] ACE inhibitors (class)
-* [ ] ARBs (class)
+* [x]  ARBs (class)
 ### Cs: 
 * [ ] Thiazides and thiazide-like diuretics (class) 
 * [ ] calcium channel blockers (class)
