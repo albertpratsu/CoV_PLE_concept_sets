@@ -52,4 +52,15 @@ Currents sets to be developed
 * [ ] calcium channel blockers (class)
 
 
+## Other Drugs
+* [ ] Eculizumab
+* [ ] Oseltamivir
+* [ ] Arbidol
+* [ ] Favipiravir
+* [ ] Favilavir
+* [ ] APN01
+
+
+
+
 
