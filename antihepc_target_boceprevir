@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 40238770,
+        "CONCEPT_NAME": "boceprevir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1102129",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42731629,
+        "CONCEPT_NAME": "{2 (0.5 ML peginterferon alfa-2b 0.16 MG/ML Injecta...) / 2 (0.5 ML peginterferon alfa-2b 0.2 MG/ML Injecta...) / 2 (0.5 ML peginterferon alfa-2b 0.3 MG/ML Injecta...) / 168 (boceprevir 200 MG O...) / 84 (Ribavirin 200 MG Or...) } Pack",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "OMOP2724896",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "CONCEPT_CLASS_ID": "Clinical Pack"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44136650,
+        "CONCEPT_NAME": "{2 (0.5 ML peginterferon alfa-2b 0.16 MG/ML Inje...) / 2 (0.5 ML peginterferon alfa-2b 0.2 MG/ML Inje...) / 2 (0.5 ML peginterferon alfa-2b 0.3 MG/ML Inje...) / 168 (boceprevir 200 MG...) / 84 (Ribavirin 200 MG O...) } Pack [Victrelis]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "OMOP1131281",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "CONCEPT_CLASS_ID": "Branded Pack"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44136696,
+        "CONCEPT_NAME": "{2 (0.5 ML peginterferon alfa-2b 0.16 MG/ML In...) / 2 (0.5 ML peginterferon alfa-2b 0.2 MG/ML In...) / 2 (0.5 ML peginterferon alfa-2b 0.3 MG/ML In...) / 168 (boceprevir 200 M...) / 84 (Ribavirin 200 MG...) } Pack [Victrelis] by Merck",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "OMOP1131327",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "CONCEPT_CLASS_ID": "Marketed Product"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
