@@ -36,7 +36,7 @@ Currents sets to be developed
 * [ ] Glecaprevir (ingredient)
 * [ ]	Paritaprevir (ingredient)
 * [ ]	Simeprevir (ingredient)
-* [ ]	Telaprevir (ingredient)
+* [x]	Telaprevir (ingredient)
 
 ### Cs:
 * [x] Pegylated interferon (ingredient)
