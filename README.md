@@ -39,7 +39,7 @@ Currents sets to be developed
 
 ### Cs:
 * [ ]	Pegylated interferon (ingredient)
-* [ ]	Ribavirin (ingredient)
+* [x]	Ribavirin (ingredient)
 
 
 ## Drugs targeting the renin–angiotensin system
