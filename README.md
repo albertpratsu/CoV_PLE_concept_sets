@@ -35,7 +35,7 @@ Currents sets to be developed
 * [ ]	Grazoprevir (ingredient)
 * [ ] Glecaprevir (ingredient)
 * [ ]	Paritaprevir (ingredient)
-* [ ]	Simeprevir (ingredient)
+* [x]	Simeprevir (ingredient)
 * [x]	Telaprevir (ingredient)
 
 ### Cs:
