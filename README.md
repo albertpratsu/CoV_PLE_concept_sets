@@ -31,9 +31,9 @@ Currents sets to be developed
 ### Ts:
 * [ ]	Hepatitis C virus NS3/4A protease inhibitors [–previr] (class)
 * [ ]	Asunaprevir (ingredient)
-* [ ]	Boceprevir (ingredient)
-* [ ]	Grazoprevir (ingredient)
-* [ ] Glecaprevir (ingredient)
+* [x] Boceprevir (ingredient)
+* [x]	Grazoprevir (ingredient)
+* [x] Glecaprevir (ingredient)
 * [x]	Paritaprevir (ingredient)
 * [x]	Simeprevir (ingredient)
 * [x]	Telaprevir (ingredient)
