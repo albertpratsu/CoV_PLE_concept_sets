@@ -29,7 +29,7 @@ Currents sets to be developed
 
 ## Anti-Hepatitis C antiretroviral therapies
 ### Ts:
-* [ ]	Hepatitis C virus NS3/4A protease inhibitors [–previr] (class)
+* [x]	Hepatitis C virus NS3/4A protease inhibitors [–previr] (class)
 * [x]	Asunaprevir (ingredient)
 * [x] Boceprevir (ingredient)
 * [x]	Grazoprevir (ingredient)
