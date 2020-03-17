@@ -1,0 +1,276 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 36674331,
+        "CONCEPT_NAME": "Bictegravir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "772193003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36674332,
+        "CONCEPT_NAME": "Bictegravir sodium",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "772194009",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36103838,
+        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "b8ef9840-4d26-4cc5-96a7-b3bde1a9bdad",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 795896,
+        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "033019c1-648b-4694-88dd-a56bd4899d5c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42811185,
+        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5f36683b-a082-492c-a2c1-ac0068edcde0",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36170083,
+        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "76167872-d910-6a61-e053-2a91aa0a0f3c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37017228,
+        "CONCEPT_NAME": "Dolutegravir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "713464000",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37017229,
+        "CONCEPT_NAME": "Dolutegravir sodium",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "713465004",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36469624,
+        "CONCEPT_NAME": "dolutegravir sodium, abacavir sulfate, lamivudine 50mg/1 / 300mg/1 / 600mg/1 ORAL TABLET, FILM COATED [triumeq]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "2f569c7e-bd37-4bb3-92db-caf575ef4381",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45745509,
+        "CONCEPT_NAME": "dolutegravir sodium and lamivudine 50mg/1 / 300mg/1 ORAL TABLET, FILM COATED [dovato]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "85e9d302-f5e3-4ae4-a049-e87541b16bc6",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35530358,
+        "CONCEPT_NAME": "dolutegravir sodium and lamivudine 50mg/1 / 300mg/1 ORAL TABLET, FILM COATED [dovato]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "b37964c0-f2c4-4cd9-889c-9d9b8cf59574",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36171239,
+        "CONCEPT_NAME": "dolutegravir sodium and rilpivirine hydrochloride 25mg/1 / 50mg/1 ORAL TABLET, FILM COATED [juluca]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "8fd96f57-4b71-4bca-a01e-26ece43e8a0c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45745262,
+        "CONCEPT_NAME": "dolutegravir sodium and rilpivirine hydrochloride 25mg/1 / 50mg/1 ORAL TABLET, FILM COATED [juluca]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "388f39cf-0822-49ff-b53f-c7fbf729fea0",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42812936,
+        "CONCEPT_NAME": "dolutegravir sodium and rilpivirine hydrochloride 25mg/1 / 50mg/1 ORAL TABLET, FILM COATED [juluca]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "6199b67d-3b29-4348-81f7-e7da7927c507",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1501766,
+        "CONCEPT_NAME": "emtricitabine, tenofovir alafenamide and bictegravir",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "J05AR20",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "ATC",
+        "CONCEPT_CLASS_ID": "ATC 5th"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4330791,
+        "CONCEPT_NAME": "Raltegravir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "429707008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
