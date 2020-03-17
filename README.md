@@ -38,7 +38,7 @@ Currents sets to be developed
 * [ ]	Telaprevir (ingredient)
 
 ### Cs:
-* [ ]	Pegylated interferon (ingredient)
+* [x] Pegylated interferon (ingredient)
 * [x]	Ribavirin (ingredient)
 
 
