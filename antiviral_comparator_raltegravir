@@ -1,0 +1,684 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 582816,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "856b184c-ff1e-4800-9543-670f14224af3",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 737187,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "cfa68b02-919e-43bd-b1cf-5f6f79670de7",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 795783,
+        "CONCEPT_NAME": "ISENTRESS - isentress tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "9000a7ea-efce-3fba-e053-2a95a90ae2c3",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1371536,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7fb480df-c67e-e0b5-e053-2991aa0abc60",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1561807,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "ebc650fa-a335-4784-94d0-ba8909b79848",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4330791,
+        "CONCEPT_NAME": "Raltegravir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "429707008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Substance"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 21603194,
+        "CONCEPT_NAME": "raltegravir",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "J05AX08",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "ATC",
+        "CONCEPT_CLASS_ID": "ATC 5th"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35508121,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "cf9085f0-7353-40e1-bc40-0295ace92aab",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35513715,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "798d764b-b970-3191-e053-2991aa0aa669",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35907842,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "95679f25-c8a6-9724-e053-2995a90a4bc2",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36160425,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "13ce6e92-d613-4a04-b74f-e9c7ccde0cbf",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36164352,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "6a261882-bc44-7df8-e053-2a91aa0ab26a",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36170599,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7ff06097-138b-4314-8187-5cca9e435a29",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36468771,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "0783c136-2df2-4eca-82e6-fbbdc3b44dd6",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36474191,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7e343355-1925-4aff-a510-b4575b11b6d4",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37600750,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "83d93a6e-9a8f-d680-e053-2a91aa0a018e",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42801891,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7e659505-c902-4906-9461-1cc83e2236d2",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42808806,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "24f6eded-b237-4966-92c6-6036815daba6",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42809354,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "321d0712-124d-42be-851f-b94bb2e1eca3",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 43533396,
+        "CONCEPT_NAME": "Raltegravir",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LP102418-3",
+        "DOMAIN_ID": "Measurement",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "LOINC Hierarchy"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44344289,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "46ef8e2e-ae63-6a3c-e054-00144ff8d46c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44350929,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "975c0efc-036f-4e9e-98a0-1c035021cc6e",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44351887,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "a338602c-b7e9-4b51-9585-131889af9979",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44362948,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5554d179-32dd-531e-e054-00144ff8d46c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44378279,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "46ef8e2e-ae64-6a3c-e054-00144ff8d46c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44384779,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5554d179-32de-531e-e054-00144ff8d46c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44387424,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5a0f4362-9de1-d564-e053-2991aa0ab3ac",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44392319,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "79eac456-53ab-44ca-a7ab-65c0f40e66f0",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44404280,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 / 600mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "dea5d8a6-af2b-46c0-ba65-3a3f7b2fd1ec",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45656535,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "a112d642-fac0-4857-8d63-6e21e46c2b6d",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45657984,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "e463b253-ad05-4e5c-8a3b-595d55c56ed7",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45661427,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "89a5ec53-d956-4329-8004-0f40f51c88a3",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45662899,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "cf313cc0-44c0-4f55-a021-8fab00af41ca",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45666752,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "84979dd5-0ad4-4e47-a8c3-88b55363491f",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45668795,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "e2b78ce7-a387-4a29-9c78-053c71bfd86f",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45673702,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "c2ee4728-3388-4ad7-8512-e632b69557d4",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45700000,
+        "CONCEPT_NAME": "raltegravir 400mg/1 ORAL TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7e55b122-534a-4fcc-9b47-f7263d25b363",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45701691,
+        "CONCEPT_NAME": "ISENTRESS - raltegravir tablet, film coated",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "cbd3e1af-81f3-44f6-8e45-652deab7a508",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45789117,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "69af103a-cb72-490d-9ed7-8e4882e46844",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45896448,
+        "CONCEPT_NAME": "raltegravir 25mg/1 / 100mg/1 / 400mg/1 ORAL GRANULE, FOR SUSPENSION, TABLET, CHEWABLE, TABLET, FILM COATED [isentress]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "9cb938d9-3f24-41a9-b5df-ec853eaa38b9",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
