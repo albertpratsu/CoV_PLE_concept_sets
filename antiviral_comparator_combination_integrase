@@ -36,23 +36,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 36103838,
-        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "b8ef9840-4d26-4cc5-96a7-b3bde1a9bdad",
-        "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "SPL",
-        "CONCEPT_CLASS_ID": "Prescription Drug"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 795896,
         "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
         "STANDARD_CONCEPT": "C",
@@ -70,13 +53,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 42811185,
+        "CONCEPT_ID": 36103838,
         "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
         "STANDARD_CONCEPT": "C",
         "STANDARD_CONCEPT_CAPTION": "Classification",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "5f36683b-a082-492c-a2c1-ac0068edcde0",
+        "CONCEPT_CODE": "b8ef9840-4d26-4cc5-96a7-b3bde1a9bdad",
         "DOMAIN_ID": "Drug",
         "VOCABULARY_ID": "SPL",
         "CONCEPT_CLASS_ID": "Prescription Drug"
@@ -94,6 +77,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "76167872-d910-6a61-e053-2a91aa0a0f3c",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42811185,
+        "CONCEPT_NAME": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate 25mg/1 / 50mg/1 / 200mg/1 ORAL TABLET [biktarvy]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5f36683b-a082-492c-a2c1-ac0068edcde0",
         "DOMAIN_ID": "Drug",
         "VOCABULARY_ID": "SPL",
         "CONCEPT_CLASS_ID": "Prescription Drug"
@@ -155,23 +155,6 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 45745509,
-        "CONCEPT_NAME": "dolutegravir sodium and lamivudine 50mg/1 / 300mg/1 ORAL TABLET, FILM COATED [dovato]",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "85e9d302-f5e3-4ae4-a049-e87541b16bc6",
-        "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "SPL",
-        "CONCEPT_CLASS_ID": "Prescription Drug"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
         "CONCEPT_ID": 35530358,
         "CONCEPT_NAME": "dolutegravir sodium and lamivudine 50mg/1 / 300mg/1 ORAL TABLET, FILM COATED [dovato]",
         "STANDARD_CONCEPT": "C",
@@ -189,13 +172,13 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 36171239,
-        "CONCEPT_NAME": "dolutegravir sodium and rilpivirine hydrochloride 25mg/1 / 50mg/1 ORAL TABLET, FILM COATED [juluca]",
+        "CONCEPT_ID": 45745509,
+        "CONCEPT_NAME": "dolutegravir sodium and lamivudine 50mg/1 / 300mg/1 ORAL TABLET, FILM COATED [dovato]",
         "STANDARD_CONCEPT": "C",
         "STANDARD_CONCEPT_CAPTION": "Classification",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "8fd96f57-4b71-4bca-a01e-26ece43e8a0c",
+        "CONCEPT_CODE": "85e9d302-f5e3-4ae4-a049-e87541b16bc6",
         "DOMAIN_ID": "Drug",
         "VOCABULARY_ID": "SPL",
         "CONCEPT_CLASS_ID": "Prescription Drug"
@@ -230,6 +213,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "6199b67d-3b29-4348-81f7-e7da7927c507",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "SPL",
+        "CONCEPT_CLASS_ID": "Prescription Drug"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36171239,
+        "CONCEPT_NAME": "dolutegravir sodium and rilpivirine hydrochloride 25mg/1 / 50mg/1 ORAL TABLET, FILM COATED [juluca]",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "8fd96f57-4b71-4bca-a01e-26ece43e8a0c",
         "DOMAIN_ID": "Drug",
         "VOCABULARY_ID": "SPL",
         "CONCEPT_CLASS_ID": "Prescription Drug"
