@@ -2,69 +2,52 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_ID": 46292559,
-        "CONCEPT_NAME": "VITEKTA - elvitegravir tablet, film coated",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "be87c3bc-97bb-49cb-8053-9b0c756a1965",
-        "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "SPL",
-        "CONCEPT_CLASS_ID": "Prescription Drug"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 46325272,
-        "CONCEPT_NAME": "elvitegravir 85mg/1 / 150mg/1 ORAL TABLET, FILM COATED [vitekta]",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "4a50b7d7-ed72-4703-b435-7f97fdad3933",
-        "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "SPL",
-        "CONCEPT_CLASS_ID": "Prescription Drug"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 45799370,
-        "CONCEPT_NAME": "elvitegravir 85mg/1 / 150mg/1 ORAL TABLET, FILM COATED [vitekta]",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "ce7a4e8a-7b24-4ed3-bc8b-bbe897f63299",
-        "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "SPL",
-        "CONCEPT_CLASS_ID": "Prescription Drug"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_ID": 43534800,
+        "CONCEPT_ID": 42874212,
         "CONCEPT_NAME": "elvitegravir",
-        "STANDARD_CONCEPT": "C",
-        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "J05AX11",
+        "CONCEPT_CODE": "1306286",
         "DOMAIN_ID": "Drug",
-        "VOCABULARY_ID": "ATC",
-        "CONCEPT_CLASS_ID": "ATC 5th"
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
       },
       "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1738170,
+        "CONCEPT_NAME": "lopinavir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "195088",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1748921,
+        "CONCEPT_NAME": "Ritonavir",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "85762",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm",
+        "CONCEPT_CLASS_ID": "Ingredient"
+      },
+      "isExcluded": true,
       "includeDescendants": true,
       "includeMapped": false
     }
