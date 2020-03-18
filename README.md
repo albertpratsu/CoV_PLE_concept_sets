@@ -75,17 +75,17 @@ Currents sets to be developed
 * [ ] Remdesivir (ingredient) - Not yet in atlas demo
 
 
-Sildenafil citrate
-A lipoic acid
-Chloroquine phosphate
-Ebastine
-Interferon a
-Dyprimamole
-Bevacizumab
-Recombinant ace2
-Danoprevir
-Bromhexine hydrochloride
-Methyproednisolone
-Thalidomide
-Dihydroartemisinin/piperaquine
+* [ ] Sildenafil citrate
+* [ ] A lipoic acid
+* [ ] Chloroquine phosphate
+* [ ] Ebastine
+* [ ] Interferon a
+* [ ] Dyprimamole
+* [ ] Bevacizumab
+* [ ] Recombinant ace2
+* [ ] Danoprevir
+* [ ] Bromhexine hydrochloride
+* [ ] Methyproednisolone
+* [ ] Thalidomide
+* [ ] Dihydroartemisinin/piperaquine
 
