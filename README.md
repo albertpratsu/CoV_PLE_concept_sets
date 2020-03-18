@@ -54,7 +54,7 @@ Currents sets to be developed
 * [x] Eculizumab
 * [x] Oseltamivir
 * [x] Umifenovir (Arbidol)
-* [ ] Favipiravir
+* [ ] Favipiravir - Not yet in atlas demo
 * [ ] Favilavir
 * [ ] APN01
 * [x] Umifenovir (ingredient)
