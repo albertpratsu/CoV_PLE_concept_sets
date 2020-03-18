@@ -50,15 +50,15 @@ Currents sets to be developed
 * [ ] calcium channel blockers (class)
 
 
-## Other Drugs
+## Other Drugs - We need to identify Comparators
 * [x] Eculizumab
 * [x] Oseltamivir
 * [x] Umifenovir (Arbidol)
 * [ ] Favipiravir - Not yet in atlas demo
-* [ ] Favilavir
-* [ ] APN01
+* [ ] Favilavir - Experimental
+* [ ] APN01 - Experimental
 * [x] Umifenovir (ingredient)
-* [ ] Remdesivir (ingredient)
+* [ ] Remdesivir (ingredient) - Not yet in atlas demo
 
 
 
