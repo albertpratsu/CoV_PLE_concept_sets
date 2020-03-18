@@ -32,12 +32,12 @@ Currents sets to be developed
 *  [x]	bictegravir)
 
 *  [X]	Non-nucleoside reverse transcriptase inhibitors (class) (included 
-*  [ ]  efavirenz, 
-*  [ ] nevirapine, 
-*  [ ] delavirdine, 
-*  [ ] etravirine, 
-*  [ ] rilpivirine, 
-*  [ ] doravirine)
+*  [x]  efavirenz, 
+*  [x] nevirapine, 
+*  [x] delavirdine, 
+*  [x] etravirine, 
+*  [x] rilpivirine, 
+*  [x] doravirine)
 
 ## Anti-Hepatitis C antiretroviral therapies
 ### Ts:
