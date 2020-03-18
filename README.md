@@ -18,8 +18,6 @@ Currents sets to be developed
 
 ### Ts:
 * [ ] Protease inhibitors [-navir] (class)
-* [x] Umifenovir (ingredient)
-* [ ] Remdesivir (ingredient)
 * [x]	Lopinavir (ingredient) 
 * [x] Ritonavir (ingredient)
 
@@ -59,7 +57,8 @@ Currents sets to be developed
 * [ ] Favipiravir
 * [ ] Favilavir
 * [ ] APN01
-
+* [x] Umifenovir (ingredient)
+* [ ] Remdesivir (ingredient)
 
 
 
