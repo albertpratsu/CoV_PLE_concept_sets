@@ -22,7 +22,11 @@ Currents sets to be developed
 * [x] Ritonavir (ingredient)
 
 ### Cs: 
-* [ ]	Integrase inhibitors (class) (includes raltegravir, elvitegravir, dolutegravir, bictegravir)
+*  [x]	Integrase inhibitors (class) (includes 
+*  [x]	raltegravir, 
+*  [x]	elvitegravir, 
+*  [x]	dolutegravir, 
+*  [x]	bictegravir)
 * [ ]	Non-nucleoside reverse transcriptase inhibitors (class) (included efavirenz, nevirapine, delavirdine, etravirine, rilpivirine, doravirine)
 
 ## Anti-Hepatitis C antiretroviral therapies
@@ -61,5 +65,17 @@ Currents sets to be developed
 * [ ] Remdesivir (ingredient) - Not yet in atlas demo
 
 
-
+Sildenafil citrate
+A lipoic acid
+Chloroquine phosphate
+Ebastine
+Interferon a
+Dyprimamole
+Bevacizumab
+Recombinant ace2
+Danoprevir
+Bromhexine hydrochloride
+Methyproednisolone
+Thalidomide
+Dihydroartemisinin/piperaquine
 
