@@ -53,7 +53,7 @@ Currents sets to be developed
 ## Other Drugs
 * [x] Eculizumab
 * [x] Oseltamivir
-* [ ] Arbidol
+* [x] Umifenovir (Arbidol)
 * [ ] Favipiravir
 * [ ] Favilavir
 * [ ] APN01
