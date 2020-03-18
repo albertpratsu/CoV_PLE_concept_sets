@@ -17,17 +17,27 @@ Currents sets to be developed
 ## Anti-HIV antiviral therapies
 
 ### Ts:
-* [ ] Protease inhibitors [-navir] (class)
+* [x] Protease inhibitors [-navir]
+* [x] Protease inhibitors (Only HIV)
+* [x]	Protease inhibitors - combination therapies
 * [x]	Lopinavir (ingredient) 
 * [x] Ritonavir (ingredient)
 
 ### Cs: 
+
 *  [x]	Integrase inhibitors (class) (includes 
 *  [x]	raltegravir, 
 *  [x]	elvitegravir, 
 *  [x]	dolutegravir, 
 *  [x]	bictegravir)
-* [ ]	Non-nucleoside reverse transcriptase inhibitors (class) (included efavirenz, nevirapine, delavirdine, etravirine, rilpivirine, doravirine)
+
+*  [X]	Non-nucleoside reverse transcriptase inhibitors (class) (included 
+*  [ ]  efavirenz, 
+*  [ ] nevirapine, 
+*  [ ] delavirdine, 
+*  [ ] etravirine, 
+*  [ ] rilpivirine, 
+*  [ ] doravirine)
 
 ## Anti-Hepatitis C antiretroviral therapies
 ### Ts:
