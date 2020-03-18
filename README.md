@@ -51,7 +51,7 @@ Currents sets to be developed
 
 
 ## Other Drugs
-* [ ] Eculizumab
+* [x] Eculizumab
 * [ ] Oseltamivir
 * [ ] Arbidol
 * [ ] Favipiravir
